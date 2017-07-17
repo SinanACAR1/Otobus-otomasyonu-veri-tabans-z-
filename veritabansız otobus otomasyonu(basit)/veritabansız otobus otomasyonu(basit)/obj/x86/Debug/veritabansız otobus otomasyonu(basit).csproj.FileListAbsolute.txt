@@ -1,0 +1,18 @@
+C:\Users\Samet\documents\visual studio 2010\Projects\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Samet\documents\visual studio 2010\Projects\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Samet\documents\visual studio 2010\Projects\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\veritabansız otobus otomasyonu(basit).csproj.ResolveComReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\bin\Debug\veritabansız otobus otomasyonu(basit).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\bin\Debug\veritabansız otobus otomasyonu(basit).pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\bin\Debug\Interop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\bin\Debug\AxInterop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\veritabansız otobus otomasyonu(basit).csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\Interop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\veritabansız otobus otomasyonu(basit).csproj.ResolveComReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\veritabansız otobus otomasyonu(basit).csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\veritabansız otobus otomasyonu(basit).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\veritabansız otobus otomasyonu(basit)\veritabansız otobus otomasyonu(basit)\obj\x86\Debug\veritabansız otobus otomasyonu(basit).pdb
